@@ -1,0 +1,8 @@
+ {
+      "name": "jquery-titlealert",
+      "description": "Plugin for flashing messages in the browser title bar",
+      "homepage": "http://github.com/heyman/jquery-titlealert",
+      "author": "Jonatan Heyman <jonatan@heyman.info>",
+      "version": "0.7.0",
+      "git": "http://github.com/heyman/jquery-titlealert"
+  }
